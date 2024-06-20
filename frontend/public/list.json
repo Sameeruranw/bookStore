@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+        "price":1500,
+        "catrgory":"free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1717604636~exp=1717608236~hmac=01419ed74219b2a55d90d601d5fa32969d072a165627eac3e8c1dec5f825d7b8&w=740"
+    },
+    {
+        "id":2,
+        "name":"Music book",
+        "title":"simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+        "price":2000,
+        "catrgory":"free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1717604636~exp=1717608236~hmac=01419ed74219b2a55d90d601d5fa32969d072a165627eac3e8c1dec5f825d7b8&w=740"
+    },
+    {
+        "id":3,
+        "name":"coder ",
+        "title":"simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+        "price":1000,
+        "catrgory":"free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1717604636~exp=1717608236~hmac=01419ed74219b2a55d90d601d5fa32969d072a165627eac3e8c1dec5f825d7b8&w=740"
+    },
+    {
+        "id":4,
+        "name":"reproduction",
+        "title":"simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+        "price":0,
+        "catrgory":"paid",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1717604636~exp=1717608236~hmac=01419ed74219b2a55d90d601d5fa32969d072a165627eac3e8c1dec5f825d7b8&w=740"
+    },
+    {
+        "id":5,
+        "name":"conjuring",
+        "title":"simply dummy text of the printing and typesetting industry. Lorem Ipsum has ",
+        "price":1000,
+        "catrgory":"free",
+        "image":"https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1717604636~exp=1717608236~hmac=01419ed74219b2a55d90d601d5fa32969d072a165627eac3e8c1dec5f825d7b8&w=740"
+    }
+]
